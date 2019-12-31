@@ -25,5 +25,5 @@ deploy:
     secure: PLEASE_REPLACE_ME
   on:
     tags: true
-    repo: tousley-ni/donothing
+    repo: tousley-ni/sturdy-eureka
     python: 3.8
