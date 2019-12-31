@@ -1,5 +1,5 @@
 =========
-donothing
+sturdy-eureka
 =========
 
 
@@ -20,7 +20,7 @@ donothing
 
 
 
-Do Nothing does nothing useful, and maybe nothing interesting.  You are probably looking for another project.
+Sturdy Eureka is a do nothing repo.  It does nothing useful, and maybe nothing interesting.  You are probably looking for another project.
 
 
 * Free software: BSD license
