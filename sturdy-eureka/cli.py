@@ -1,17 +1,17 @@
-"""Console script for donothing."""
+"""Console script for sturdy-eureka."""
 import argparse
 import sys
 
 
 def main():
-    """Console script for donothing."""
+    """Console script for sturdy-eureka."""
     parser = argparse.ArgumentParser()
     parser.add_argument('_', nargs='*')
     args = parser.parse_args()
 
     print("Arguments: " + str(args._))
     print("Replace this message by putting your code into "
-          "donothing.cli.main")
+          "sturdy-eureka.cli.main")
     return 0
 
 

@@ -24,7 +24,7 @@ Sturdy Eureka is a do nothing repo.  It does nothing useful, and maybe nothing i
 
 
 * Free software: BSD license
-* Documentation: https://donothing.readthedocs.io.
+* Documentation: https://sturdy-eureka.readthedocs.io.
 
 
 Features

@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use donothing in a project::
+To use sturdy-eureka in a project::
 
-    import donothing
+    import sturdy-eureka

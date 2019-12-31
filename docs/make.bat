@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=donothing
+set SPHINXPROJ=sturdy-eureka
 
 if "%1" == "" goto help
 

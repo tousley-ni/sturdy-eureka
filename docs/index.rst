@@ -1,4 +1,4 @@
-Welcome to donothing's documentation!
+Welcome to sturdy-eureka's documentation!
 ======================================
 
 .. toctree::

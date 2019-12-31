@@ -1,1 +1,1 @@
-"""Unit test package for donothing."""
+"""Unit test package for sturdy-eureka."""
