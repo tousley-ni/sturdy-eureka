@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Tests for `donothing` package."""
+"""Tests for `sturdy-eureka` package."""
 
 import pytest
 
