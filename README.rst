@@ -3,19 +3,19 @@ sturdy-eureka
 =========
 
 
-.. image:: https://img.shields.io/pypi/v/donothing.svg
-        :target: https://pypi.python.org/pypi/donothing
+.. image:: https://img.shields.io/pypi/v/sturdy-eureka.svg
+        :target: https://pypi.python.org/pypi/sturdy-eureka
 
-.. image:: https://img.shields.io/travis/tousley-ni/donothing.svg
-        :target: https://travis-ci.org/tousley-ni/donothing
+.. image:: https://api.travis-ci.org/tousley-ni/sturdy-eureka.svg
+        :target: https://api.travis-ci.org/tousley-ni/sturdy-eureka
 
-.. image:: https://readthedocs.org/projects/donothing/badge/?version=latest
-        :target: https://donothing.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/sturdy-eureka/badge/?version=latest
+        :target: https://sturdy-eureka.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/tousley-ni/donothing/shield.svg
-     :target: https://pyup.io/repos/github/tousley-ni/donothing/
+.. image:: https://pyup.io/repos/github/tousley-ni/sturdy-eureka/shield.svg
+     :target: https://pyup.io/repos/github/tousley-ni/sturdy-eureka/
      :alt: Updates
 
 
